@@ -1,0 +1,16 @@
+body {
+    background-color: #5DCCD3;
+    padding: 20px;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+
+
+    font-size: 36px;
+    line-height: 36px;
+}
+
+footer {
+    justify-content: space-between;
+}
